@@ -5,7 +5,7 @@ date:   2024-09-03 20:16:08 -0500
 categories: jekyll update
 ---
 
-Esta página es la primera página de mi portal enfocada en la venta de celulares. Aquí podrás encontrar una gran variedad de smartphones de las mejores marcas, con precios competitivos y ofertas exclusivas para todo tipo de clientess.
+Esta página es la primera página de mi portal enfocada en la venta de celularess. Aquí podrás encontrar una gran variedad de smartphones de las mejores marcas, con precios competitivos y ofertas exclusivas para todo tipo de clientess.
 
 ### Ofertas del Mes
 
