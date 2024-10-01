@@ -4,23 +4,26 @@ title:  "PEA2_LEDESMA_CHARLES"
 date:   2024-09-04 20:16:08 -0500
 categories: jekyll update
 ---
-Esta página es la segunda página de mi portal, enfocada en la venta de celulares
+Esta página es la segunda página de mi portal, enfocada en la venta de celulares.
 
-Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo1:
+Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
 
 {% highlight ruby %}
-Este es un bloque resaltado en mi post.
-Aquí puedo incluir código o mensajes importantes sobre mi tienda de celulares.
+# Este es un bloque resaltado en mi post.
+# Aquí puedo incluir código o mensajes importantes sobre mi tienda de celulares.
+
+puts "Bienvenido a nuestra tienda de celulares"
 {% endhighlight %}
 
-Si necesitas ver informacion de los productos de [Microsoft][ref01] visita su pagina.la empresa [IBM][ref02] tiene muchos
-productos interesantes.
+Si necesitas más información sobre los productos de [Apple][ref01], puedes visitar su página oficial para conocer los últimos modelos de iPhone. Además, la empresa [Samsung][ref02] ofrece una amplia gama de smartphones con tecnología avanzada.
 
-El portal[amazon][ref03]ofrece mejores productos.
+El portal de [Xiaomi][ref03] tiene teléfonos con una excelente relación calidad-precio y características premium.
 
+Consulta la [documentación de Jekyll][jekyll-docs] para aprender más sobre cómo gestionar y personalizar tu página web enfocada en la venta de celulares. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://www.microsoft.com/es-pe
-[jekyll-gh]:   https://www.ibm.com/mx-es
-[jekyll-talk]: https://www.amazon.com/
+[ref01]: https://www.apple.com/
+[ref02]: https://www.samsung.com/
+[ref03]: https://www.mi.com/
+[jekyll-docs]: https://jekyllrb.com/docs/
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
