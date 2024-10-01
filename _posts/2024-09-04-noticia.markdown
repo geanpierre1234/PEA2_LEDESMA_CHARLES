@@ -4,7 +4,7 @@ title:  "PEA2_LEDESMA_CHARLES"
 date:   2024-09-04 20:16:08 -0500
 categories: jekyll update
 ---
-Esta página es la segunda página de mi portal, enfocada en la venta de celulares.
+Esta página es la segunda página de mi portal, enfocada en la venta de celulare.
 
 Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
 
