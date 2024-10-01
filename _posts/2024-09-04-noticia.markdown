@@ -4,17 +4,13 @@ title:  "Welcome to Jekyll!"
 date:   2024-09-04 20:16:08 -0500
 categories: jekyll update
 ---
-Esta pagina es mi seguda pagina de mi portal  `Portal'.
+Esta página es la segunda página de mi portal, enfocada en la venta de celulares.
 
-
-
-Jekyll also offers powerful support for code snippets:
+Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
 
 {% highlight ruby %}
-
-Esta seccion es un bloque
-resaltado en mi post
-
+Este es un bloque resaltado en mi post.
+Aquí puedo incluir código o mensajes importantes sobre mi tienda de celulares.
 {% endhighlight %}
 
 Si necesitas ver informacion de los productos de [Microsoft][ref01] visita su pagina.la empresa [IBM][ref02] tiene muchos
