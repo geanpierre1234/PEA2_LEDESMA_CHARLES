@@ -6,12 +6,11 @@ categories: jekyll update
 ---
 Esta página es la segunda página de mi portal, enfocada en la venta de celulares.
 
-Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
+ewopoewpo 435345 'retret 8768768 4fdsfdsf
+
+Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-Este es un bloque resaltado en mi post.
-Aquí puedo incluir código o mensajes importantes sobre mi tienda de celulares.
-{% endhighlight %}
 
 Esta seccion es un bloque
 resaltado en mi post
