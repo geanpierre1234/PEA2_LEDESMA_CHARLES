@@ -1,30 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "PEA2_LEDESMA_CHARLES"
 date:   2024-09-03 20:16:08 -0500
 categories: jekyll update
 ---
-Esta página es la segunda página de mi portal, enfocada en la venta de celulares.
+Esta página es la segunda página de mi portal, enfocada en la **venta de celulares**. Aquí podrás encontrar una gran variedad de smartphones de las mejores marcas, con precios competitivos y ofertas exclusivas.
+
+### Ofertas del Mes
 
 ewopoewpo 435345 'retret 8768768 4fdsfdsf
 
-Jekyll also offers powerful support for code snippets:
+Jekyll también ofrece soporte poderoso para fragmentos de código, algo que puede ser útil para desarrolladores de páginas como esta.
 
 {% highlight ruby %}
-
-Esta seccion es un bloque
-resaltado en mi post
-
+# Este es un bloque de código
+puts "Bienvenido a nuestra tienda de celulares"
 {% endhighlight %}
 
-Si necesitas ver informacion de los productos de [Microsoft][ref01] visita su pagina.la empresa [IBM][ref02] tiene muchos
-productos interesantes.
+Si estás buscando más información sobre productos de [Apple][ref01], visita su página para ver los últimos modelos de iPhone. Además, la empresa [Samsung][ref02] ofrece una amplia gama de celulares con tecnología innovadora.
 
-El portal[amazon][ref03]ofrece mejores productos.
+El portal de [Xiaomi][ref03] tiene teléfonos asequibles y con características premium.
 
+Consulta la [documentación de Jekyll][jekyll-docs] para aprender más sobre cómo personalizar y gestionar tu página web de venta de celulares.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://www.microsoft.com/es-pe
-[jekyll-gh]:   https://www.ibm.com/mx-es
-[jekyll-talk]: https://www.amazon.com/
+[ref01]: https://www.apple.com/
+[ref02]: https://www.samsung.com/
+[ref03]: https://www.mi.com/
+[jekyll-docs]: https://jekyllrb.com/docs/
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
