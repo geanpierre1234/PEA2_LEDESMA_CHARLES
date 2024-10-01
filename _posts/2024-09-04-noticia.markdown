@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Esta página es la segunda página de mi portal, enfocada en la venta de celulares
 
-Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
+Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo1:
 
 {% highlight ruby %}
 Este es un bloque resaltado en mi post.
